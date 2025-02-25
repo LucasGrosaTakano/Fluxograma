@@ -68,4 +68,4 @@
 
 ## Conclusão sobre a importância dos fluxogramas no processo de desenvolvimento
 
-#### Eles são um guia que assegura que o processo de desenvolvimento seja mais eficiente, organizado e menos propenso a erros, promovendo uma análise mais detalhada das etapas envolvidas e garantindo que o produto final atenda aos requisitos definidos.
+#### Os fluxogramas são um guia que assegura que o processo de desenvolvimento seja mais eficiente, organizado e menos propenso a erros, promovendo uma análise mais detalhada das etapas envolvidas e garantindo que o produto final atenda aos requisitos definidos.
