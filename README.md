@@ -21,7 +21,7 @@
 
 - Trapézio: Representa uma etapa de entrada manual, como digitação de dados.
 
-![]([https://assets-site.staticpipefy.com/production/wp-content/uploads/2023/06/Workflow-Symbols-pt-2x-960x552.png](https://img.freepik.com/vetores-premium/simbolo-de-fluxograma-basico-com-significados-para-criar-o-fluxograma_518018-1576.jpg))
+![](https://img.freepik.com/vetores-premium/simbolo-de-fluxograma-basico-com-significados-para-criar-o-fluxograma_518018-1576.jpg)
 
 ## Fluxogramas no Desenvolvimento de Sistemas
 
