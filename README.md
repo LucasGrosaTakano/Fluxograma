@@ -32,7 +32,7 @@
 
 ## Exemplos de fluxogramas aplicados à lógica de programação
 
-###__Exemplo 1:__
+### __Exemplo 1:__
 #### Início: O processo começa.
 
 #### Entrada do Número: O usuário insere um número.
@@ -45,7 +45,7 @@
 
 #### Fim: O processo termina.
 
-###__Exemplo 2:__
+### __Exemplo 2:__
 
 #### Início: O processo começa.
 
